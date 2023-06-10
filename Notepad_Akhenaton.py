@@ -48,7 +48,7 @@ class Notepad_Akhenaton:
             self.text.config(yscrollcommand=scrollbar.set)
             scrollbar.config(command=self.text.yview)
 
-            #CORD DE FUNDO E CONFIGURAÇÃO DA FONTE
+            #COR DE FUNDO E CONFIGURAÇÃO DA FONTE
             self.text.configure(background="#F5F5F5")
             self.text.configure(font=("Calibri",16))
 
