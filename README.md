@@ -10,6 +10,8 @@
 Para arquivos de compilação a biblioteca py-auto-exe não suporta arquivos de CustomTkinter, nesse caso se o untúito for criar uma exe, é apenas necessário substituir o Ctk pelo Tk.
 Ou se a necessidade for executar o código normalmente sem necessidade de um arquivo .exe, baixe-o como e estude-o sem necessidade de compila-lo.
 
+Obs.: Caso não tente compilar o app como um executável e não conseguir abrir o compilador pelo cmd, execute o comando : -m auto_py_to_exe
+
 
 ![Imagem do WhatsApp de 2023-06-11 à(s) 14 42 19](https://github.com/JonaThFelix/Notepad_Akhenathon.py/assets/123984244/4d64e7c0-1f5f-4866-a732-b1886771531b)
 
